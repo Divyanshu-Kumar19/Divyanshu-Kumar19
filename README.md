@@ -16,8 +16,8 @@
 - 🎓 **2nd Year BTech CSE** student at **ITER, SOA University**
 - 📊 **Aspiring Data Scientist** passionate about **Data Science & Machine Learning**
 - 💻 Love building projects and solving complex problems
-- 🌱 Currently exploring **Advanced DSML concepts**
-- ⚡ Fun fact: I'm constantly evolving with tech!
+- 🌱 Currently exploring ** DSML concepts **
+- ⚡ Constantly evolving with tech!
 
 ---
 
@@ -60,19 +60,18 @@
 
 💼 Technical Arsenal:
   - Frontend: Building responsive UIs with React & Tailwind
-  - Backend: Django web frameworks & RESTful APIs
+  - Backend: Django web frameworks 
   - Data: NumPy, Pandas, Matplotlib, Seaborn
   - Problem Solving: Active on LeetCode & HackerRank
 
 🚀 Current Mission:
   - Deepening DSML expertise
-  - Contributing to open-source projects
-  - Building real-world applications
+  - To Build real-world applications
 ```
 
 ---
 
-## 💪 Competitive Coding
+## 💪 DSA Coding
 
 <p align="center">
   <a href="https://leetcode.com/u/Harsh_Kumar19/" target="_blank">
