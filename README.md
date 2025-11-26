@@ -47,7 +47,7 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
+  <!-- <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/> -->
 </p>
 
 ### 🎯 Currently Mastering
@@ -55,13 +55,13 @@
 ```yaml
 🎓 Academic Focus:
   - Data Structures & Algorithms (Java)
-  - Full-Stack Web Development
+  - Web Development
   - Data Science & Machine Learning
 
 💼 Technical Arsenal:
   - Frontend: Building responsive UIs with React & Tailwind
   - Backend: Django web frameworks 
-  - Data: NumPy, Pandas, Matplotlib, Seaborn
+  - Data: NumPy, Pandas, Matplotlib
   - Problem Solving: Active on LeetCode & HackerRank
 
 🚀 Current Mission:
