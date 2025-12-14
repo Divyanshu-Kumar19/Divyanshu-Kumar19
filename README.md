@@ -105,8 +105,7 @@
 <div align="center">
 
 ### 📌 Project 1
-*Coming Soon - Space for your amazing project*
-
+https://github.com/Divyanshu-Kumar19/LaLiga-Analysis
 ---
 
 ### 📌 Project 2
