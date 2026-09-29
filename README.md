@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **2nd Year BTech CSE** student at **ITER, SOA University**
+- 🎓 **3rd Year BTech CSE** student at **ITER, SOA University**
 - 📊 **Aspiring Data Scientist** passionate about **Data Science & Machine Learning**
 - 💻 Love building projects and solving complex problems
 - 🌱 Currently exploring ** DSML concepts **
